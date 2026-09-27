@@ -170,8 +170,8 @@
             "#FAFAFA"
         ],
         "MENTION_FOREGROUND": [
-            "#86efac",
-            "#1a7a40"
+            "#0099FF",
+            "#0F2CAD"
         ],
         "TEXT_DANGER": [
             "#C7C7C7",
@@ -346,8 +346,8 @@
             "#E3E3E3"
         ],
         "REDESIGN_INPUT_CONTROL_SELECTED": [
-            "#86efac",
-            "#1a7a40"
+            "#00FFFF",
+            "#0050C9"
         ],
         "REDESIGN_INPUT_CONTROL_ACTIVE_BG": [
             "#333333",
